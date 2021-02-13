@@ -1,0 +1,8 @@
+esp32 related : https://www.tns-labs.org/esp32-arduino-scan-with-rssi-easy/
+https://www.esp32.com/viewtopic.php?t=578
+
+
+raspberry related : https://www.raspberrypi.org/forums/viewtopic.php?t=250041
+
+
+arduino + hc05 related : https://electronics.stackexchange.com/questions/98160/how-to-get-rssi-of-bluetooth-specfically-hc-05?fbclid=IwAR1DO-MsEX2rWRhPpdZ3c28g-0mRYAse7OMkYjnYOe4XsSoXpIxzEicI0tM
